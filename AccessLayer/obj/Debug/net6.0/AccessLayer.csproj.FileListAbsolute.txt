@@ -1,0 +1,36 @@
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.deps.json
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.dll
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.pdb
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.AssemblyReference.cache
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfoInputs.cache
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfo.cs
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.dll
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\refint\AccessLayer.dll
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.pdb
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\ref\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.deps.json
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.pdb
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfo.cs
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\refint\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.pdb
+C:\Users\User\Documents\App Factory 2022\ADO6ConsoleApp\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\ref\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.deps.json
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\bin\Debug\net6.0\AccessLayer.pdb
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.AssemblyInfo.cs
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\refint\AccessLayer.dll
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\AccessLayer.pdb
+C:\Users\User\Documents\App Factory 2022\Completed Programs\Completed C#\ADO6ConsoleApp\AccessLayer\obj\Debug\net6.0\ref\AccessLayer.dll

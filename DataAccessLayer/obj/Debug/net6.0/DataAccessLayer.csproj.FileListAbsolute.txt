@@ -1,0 +1,5 @@
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\kmanu\Documents\SQL\ADO6ConsoleApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
